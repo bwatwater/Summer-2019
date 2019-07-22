@@ -54,4 +54,3 @@ def chunks(n,m,k):
 
 
 chunks(120000,10,70)
-
