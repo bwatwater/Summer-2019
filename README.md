@@ -8,7 +8,4 @@ graphs the input data.
 fourier.py: This was just a quick code written to extract a fourier analysis of the interferometer mentioned above. Gave a good sense of
 where the majority of our noise was resulting from.
 
-Ellispse Fitting: These two programs were written for fitting some elliptical data to a fit. Two photodiodes 90 degrees out of phase 
-relative to one another in an interferometer create an ellipsoid when a phase shift is introduced. Used this to extract the 
-internal pressure of a gas cell for some absorption spectroscopy. 
-
+Ellispse Fitting for gas cell analysis: These two programs were written for fitting some elliptical data to a fit. Two photodiodes 90 degrees out of phase relative to one another in an interferometer create an ellipsoid when a phase shift is introduced. Used this to extract the internal pressure of a gas cell for some absorption spectroscopy. 
